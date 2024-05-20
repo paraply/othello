@@ -1,2 +1,2 @@
 # othello
-Othello game
+Othello game for Android
